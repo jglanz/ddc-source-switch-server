@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ddc-source-switch-server",
+			"path": "."
+		},{
+			"name": "ddc-node",
+			"path": "../ddc-node"
+		}
+		
+	],
+	"settings": {}
+}
